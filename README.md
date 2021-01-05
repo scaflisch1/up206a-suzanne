@@ -6,5 +6,5 @@ Suzanne is a 2nd year Master of Urban and Regional Planning student at UCLA Lusk
 # **Project ideas:** 
 I would like to design a project examining some aspect of environmental justice in California or internationally. Possible topics include waste management, sanitation, water resources, green jobs, or environmental justice communities.
 
-#**Objectives for the class:** 
+# **Objectives for the class:** 
 I hope to gain a new skill set in visually representing data, which will be useful in my job search as well as my experience as a researcher.
