@@ -1,0 +1,5 @@
+# Summary of “Isochrone Mapping of Urban Transport” by Dovey et al.
+
+This article discusses the importance of using isochrones to develop transit-oriented cities, and more generally the role of “design research” (a term I had not heard before). The article develops mapping methods that enhance isochrone mapping to better understand urban movement, and enables graphic comparisons between different neighborhoods. The paper also compares car and public transport across locations, and tests different infrastructure designs on these neighborhoods.
+
+I thought the article’s discussion of “mobility” vs “accessibility” was interesting, because while the two terms may seem to connote the same measure, mobility is “defined as an individual’s capacity to travel”, whereas accessibility is defined as “a systemic property or capacity of an urban network”, and there is no consensus on how to measure it. Therefore, while isochrones attempt to distill a singular measure of travel time for the population as a whole, in reality this measure will vary significantly based on the person travelling, time of day, etc.  
